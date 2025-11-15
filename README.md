@@ -11,6 +11,5 @@
 | **testdata/**        | Test input data                       |
 | └── testdata.json    | Test data file                        |
 | **.env**             | Stores environment variables          |
-| **main.py**          | Optional project entry point          |
-| **requirements.txt** | Dependency list                       |
+| **main.py**          | Optional project entry point          |                     |
 | **README.md**        | Documentation                         |
